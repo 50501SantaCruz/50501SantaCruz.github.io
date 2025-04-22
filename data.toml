@@ -54,3 +54,14 @@ icon_size = "45px"
 icon = "https://50501.ca/static/media/california.a946446044a9ee9faec3.png"
 title = "Visit 50501.ca"
 url = "https://50501.ca/"
+
+[[sections]]
+title = "Our Friends and Partners"
+description = "Check out these other local activism groups"
+direction = "row"
+item_style = "outline"
+icon_size = "50px"
+[[sections.items]]
+icon = "https://images.squarespace-cdn.com/content/v1/65e24eb0339d3355610d8848/ff5726a8-4e00-4013-8fc7-94f6ead06c9b/ISCC+Logo_Transparent_large.png?format=1500w"
+title = "Indivisible Santa Cruz County"
+url = "https://www.indivisiblesantacruzcounty.com/"
