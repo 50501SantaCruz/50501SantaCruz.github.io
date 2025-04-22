@@ -5,14 +5,22 @@ image = ""
 theme = "dark"
 primary_color = "#1e49c6"
 text_align = "center"
-gtag_id = "G-XLJ81DCZFV"
 base_url = "https://50501santacruz.github.io/"
+
+[[sections]]
+title = "Contact Us"
+direction = "column"
+item_style = "filled"
+icon_size = "30px"
+[[sections.items]]
+title = "Email"
+url = "mailto:santacruz@50501.ca"
 
 [[sections]]
 title = "Links"
 description = "Follow us on Social Media"
 direction = "column"
-item_style = "filled"
+item_style = "outline"
 icon_size = "30px"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/bluesky/ffffff"
