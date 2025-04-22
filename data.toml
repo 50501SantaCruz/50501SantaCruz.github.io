@@ -49,7 +49,7 @@ url = "https://50501.chat/u/santacruz"
 title = "50501 California"
 description = "Learn more about the 50501 movement in California"
 item_style = "outline"
-icon_size = "30px"
+icon_size = "45px"
 [[sections.items]]
 icon = "https://50501.ca/static/media/california.a946446044a9ee9faec3.png"
 title = "Visit 50501.ca"
