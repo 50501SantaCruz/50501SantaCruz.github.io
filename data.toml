@@ -8,6 +8,15 @@ text_align = "center"
 base_url = "https://50501santacruz.github.io/"
 
 [[sections]]
+title = "Volunteer With Us"
+description = "Help Us Organize Epic Protests!"
+direction = "column"
+item_style = "filled"
+[[sections.items]]
+title = "Volunteer Sign-up"
+url = "https://cryptpad.fr/form/#/2/form/view/-0Ft6rtDhFbyFOmseFi0w+R9uFzjXmGgDkaBopd8rAo/"
+
+[[sections]]
 title = "Contact Us"
 direction = "column"
 item_style = "filled"
@@ -34,3 +43,13 @@ url = "https://x.com/50501SantaCruz"
 icon = "https://cdn.simpleicons.org/lemmy/ffffff"
 title = "Lemmy"
 url = "https://50501.chat/u/santacruz"
+
+[[sections]]
+title = "50501 California"
+description = "Learn more about the 50501 movement in California"
+item_style = "outline"
+icon_size = "30px"
+[[sections.items]]
+icon = "https://50501.ca/static/media/california.a946446044a9ee9faec3.png"
+title = "Visit 50501.ca"
+url = "https://50501.ca/
