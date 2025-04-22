@@ -12,6 +12,7 @@ title = "Volunteer With Us"
 description = "Help Us Organize Epic Protests!"
 direction = "column"
 item_style = "filled"
+icon_size = "30px"
 [[sections.items]]
 title = "Volunteer Sign-up"
 url = "https://cryptpad.fr/form/#/2/form/view/-0Ft6rtDhFbyFOmseFi0w+R9uFzjXmGgDkaBopd8rAo/"
