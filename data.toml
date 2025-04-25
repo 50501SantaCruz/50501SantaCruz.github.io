@@ -8,6 +8,13 @@ text_align = "center"
 base_url = "https://50501santacruz.github.io/"
 
 [[sections]]
+title = "Next Event"
+item_style = "outline"
+icon_size = "1000px"
+[[sections.items]]
+icon = "maydaystrongflyer.png"
+
+[[sections]]
 title = "Volunteer With Us"
 description = "Help Us Organize Epic Protests!"
 direction = "column"
