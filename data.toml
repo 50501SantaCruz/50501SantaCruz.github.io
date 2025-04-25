@@ -12,6 +12,7 @@ title = "Next Event"
 item_style = "outline"
 icon_size = "1000px"
 [[sections.items]]
+item_style = "row"
 icon = "maydaystrongflyer.png"
 
 [[sections]]
