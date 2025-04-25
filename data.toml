@@ -13,7 +13,7 @@ item_style = "outline"
 direction = "row"
 icon_size = "1000px"
 [[sections.items]]
-icon = "maydaystrongflyer_resized.png"
+icon = "https://github.com/50501SantaCruz/50501SantaCruz.github.io/blob/07234c7c85ba340d2ea58e156a298c0174bcd800/dist/img/maydaystrongflyer_resized.png"
 url = "https://events.pol-rev.com/events/deb2a1ea-946e-467b-a6c8-33298ff26242"
 
 [[sections]]
