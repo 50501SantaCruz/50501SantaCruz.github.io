@@ -10,9 +10,9 @@ base_url = "https://50501santacruz.github.io/"
 [[sections]]
 title = "Next Event"
 item_style = "outline"
+direction = "row"
 icon_size = "1000px"
 [[sections.items]]
-item_style = "row"
 icon = "maydaystrongflyer.png"
 
 [[sections]]
