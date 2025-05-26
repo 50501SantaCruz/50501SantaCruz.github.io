@@ -7,14 +7,14 @@ primary_color = "#1e49c6"
 text_align = "center"
 base_url = "https://50501santacruz.github.io/"
 
-#[[sections]]
-#title = "Next Event"
-#item_style = "outline"
-#direction = "row"
-#icon_size = "1000px"
-#[[sections.items]]
-#icon = "https://raw.githubusercontent.com/50501SantaCruz/50501SantaCruz.github.io/07234c7c85ba340d2ea58e156a298c0174bcd800/dist/img/maydaystrongflyer_resized.png"
-#url = "https://events.pol-rev.com/events/deb2a1ea-946e-467b-a6c8-33298ff26242"
+[[sections]]
+title = "Next Event"
+item_style = "outline"
+direction = "row"
+icon_size = "1000px"
+[[sections.items]]
+icon = "https://github.com/50501SantaCruz/50501SantaCruz.github.io/blob/7025fab06c26d8fd752012facceef2575618dc0d/dist/img/NO%20KINGS_resized.png"
+url = "https://www.mobilize.us/mobilize/event/791792/"
 
 [[sections]]
 title = "Volunteer With Us"
