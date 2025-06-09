@@ -13,7 +13,7 @@ item_style = "outline"
 direction = "row"
 icon_size = "207px"
 [[sections.items]]
-icon = "https://github.com/50501SantaCruz/50501SantaCruz.github.io/blob/7025fab06c26d8fd752012facceef2575618dc0d/dist/img/NO%20KINGS_resized.png"
+icon = "NO KINGS_resized.png"
 url = "https://www.mobilize.us/mobilize/event/791792/"
 
 [[sections]]
