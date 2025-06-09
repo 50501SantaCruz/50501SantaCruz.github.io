@@ -60,9 +60,9 @@ description = "Learn more about the 50501 movement in California"
 item_style = "outline"
 icon_size = "45px"
 [[sections.items]]
-icon = "https://50501.ca/static/media/california.a946446044a9ee9faec3.png"
-title = "Visit 50501.ca"
-url = "https://50501.ca/"
+icon = "https://50501ca.org/static/media/california.a946446044a9ee9faec3.png"
+title = "Visit 50501ca.org"
+url = "https://50501ca.org/"
 
 [[sections]]
 title = "Our Friends and Partners"
