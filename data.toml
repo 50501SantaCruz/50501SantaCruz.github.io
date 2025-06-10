@@ -8,7 +8,7 @@ text_align = "center"
 base_url = "https://50501santacruz.github.io/"
 
 [[sections]]
-title = "ALERT: CALIFORNIA IS UNDER ATTACK"
+title = "‼ ALERT: CALIFORNIA IS UNDER ATTACK ‼"
 item_style = "outline"
 direction = "row"
 icon_size = "500px"
