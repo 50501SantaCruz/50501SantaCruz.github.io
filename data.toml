@@ -22,9 +22,9 @@ item_style = "outline"
 direction = "row"
 icon_size = "500px"
 [[sections.items]]
-title = "NO KINGS - Protest June 14, 10:00 am, Upper San Lorenzo Park, Santa Cruz, CA"
-icon = "https://github.com/50501SantaCruz/50501SantaCruz.github.io/blob/32223a418d02b4f8cd29526ec8e55193f8372abc/dist/img/NO%20KINGS_resized.png?raw=true"
-url = "https://www.mobilize.us/mobilize/event/791792/"
+title = "TBD"
+icon = ""
+url = "#"
 
 [[sections]]
 title = "Volunteer With Us"
