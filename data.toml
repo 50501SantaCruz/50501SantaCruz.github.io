@@ -8,23 +8,14 @@ text_align = "center"
 base_url = "https://50501santacruz.github.io/"
 
 [[sections]]
-title = "‼ ALERT: CALIFORNIA IS UNDER ATTACK ‼"
-item_style = "outline"
-direction = "row"
-icon_size = "500px"
-[[sections.items]]
-title = "50501 Santa Cruz calls for daily peaceful protest until ICE/National Guard/USMC leave the city of Los Angeles. Protest peacefully with American and California flags along sidewalks in locations that are safe and convenient for you. Stay out of traffic. Do not remain in areas where violence or looting are occurring. Carry appropriate PPE. RESIST!"
-url = "#"
-
-[[sections]]
 title = "Next Event"
 item_style = "outline"
 direction = "row"
 icon_size = "500px"
 [[sections.items]]
-title = "TBD"
-icon = ""
-url = "#"
+title = "Make Good Trouble in Santa Cruz County"
+icon = "https://raw.githubusercontent.com/50501SantaCruz/50501SantaCruz.github.io/refs/heads/main/dist/img/Artboard5.png"
+url = "https://www.mobilize.us/john-lewis-actions/event/810374/"
 
 [[sections]]
 title = "Volunteer With Us"
