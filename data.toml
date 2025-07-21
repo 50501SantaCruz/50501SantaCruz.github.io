@@ -13,9 +13,9 @@ item_style = "outline"
 direction = "row"
 icon_size = "500px"
 [[sections.items]]
-title = "Make Good Trouble in Santa Cruz County"
-icon = "https://raw.githubusercontent.com/50501SantaCruz/50501SantaCruz.github.io/refs/heads/main/dist/img/Artboard5.png"
-url = "https://www.mobilize.us/john-lewis-actions/event/810374/"
+title = "TBA"
+icon = ""
+url = "#"
 
 [[sections]]
 title = "Volunteer With Us"
