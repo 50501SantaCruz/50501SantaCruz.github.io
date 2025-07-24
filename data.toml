@@ -24,8 +24,9 @@ direction = "column"
 item_style = "filled"
 icon_size = "30px"
 [[sections.items]]
-title = "Volunteer Sign-up"
-url = "https://cryptpad.fr/form/#/2/form/view/-0Ft6rtDhFbyFOmseFi0w+R9uFzjXmGgDkaBopd8rAo/"
+title = "Join Our Signal Chat"
+icon = "https://raw.githubusercontent.com/50501SantaCruz/50501SantaCruz.github.io/537bda0c7f0d6832f57bb45074756164f82adce0/dist/img/santacruzwaitingroomqr.png"
+url = "https://signal.group/#CjQKIDJ53wCSC9zJgogRp_PcQDeqatxV6wFS4wtUV5EgwNBaEhBSeite-zPcNOoGlT_jsdiW"
 
 [[sections]]
 title = "Contact Us"
