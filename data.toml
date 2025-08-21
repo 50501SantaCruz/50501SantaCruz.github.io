@@ -13,9 +13,9 @@ item_style = "outline"
 direction = "row"
 icon_size = "500px"
 [[sections.items]]
-title = "TBA"
-icon = ""
-url = "#"
+title = "Promote Union Rights"
+icon = "https://raw.githubusercontent.com/50501SantaCruz/50501SantaCruz.github.io/refs/heads/main/dist/img/ISCC%20Promote%20Union%20Rights-with%20logo.png"
+url = "https://www.mobilize.us/indivisiblesantacruzcounty/event/831868/"
 
 [[sections]]
 title = "Volunteer With Us"
