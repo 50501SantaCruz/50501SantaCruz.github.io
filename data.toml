@@ -7,15 +7,15 @@ primary_color = "#1e49c6"
 text_align = "center"
 base_url = "https://50501santacruz.github.io/"
 
-[[sections]]
-title = "Next Event"
-item_style = "outline"
-direction = "row"
-icon_size = "500px"
-[[sections.items]]
-title = "Promote Union Rights"
-icon = "https://raw.githubusercontent.com/50501SantaCruz/50501SantaCruz.github.io/refs/heads/main/dist/img/ISCC%20Promote%20Union%20Rights-with%20logo.png"
-url = "https://www.mobilize.us/indivisiblesantacruzcounty/event/831868/"
+#[[sections]]
+#title = "Next Event"
+#item_style = "outline"
+#direction = "row"
+#icon_size = "500px"
+#[[sections.items]]
+#title = "Promote Union Rights"
+#icon = "https://raw.githubusercontent.com/50501SantaCruz/50501SantaCruz.github.io/refs/heads/main/dist/img/ISCC%20Promote%20Union%20Rights-with%20logo.png"
+#url = "https://www.mobilize.us/indivisiblesantacruzcounty/event/831868/"
 
 [[sections]]
 title = "Volunteer With Us"
